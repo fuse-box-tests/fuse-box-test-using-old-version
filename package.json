@@ -1,0 +1,14 @@
+{
+	"name": "fuse-box-test-using-old-version",
+	"version": "1.0.0",
+	"description": "",
+	"main": "dist/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"fuse-box-test-rogue-files": "^1.0.0"
+	}
+}
